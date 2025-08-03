@@ -38,7 +38,7 @@ Bachelor of Science in Finance and Investments
 ### 1. My Portfolio Website
 - A fully responsive personal website built using HTML and CSS.
 - Includes About, Skills, Education, Projects, and Contact sections.
-- Live Demo: [https://jijohh.github.io/portfolio](https://yourusername.github.io/portfolio) <!-- Replace with your actual GitHub Pages link -->
+- Live Demo: [[https://jijohh.github.io/portfolio](https://jijohh.github.io/portfolio](https://github.com/jijohh/My-portfolio))  
 
 ### 2. Coming Soon: Finance Tracker App
 - A personal project in progress using JavaScript and local storage.
@@ -51,8 +51,8 @@ You can download my resume [here](./ResumeGW.pdf).
 ## 📬 Contact
 
 - 📧 Email: [wanjikugeorge22@gmail.com](mailto:wanjikugeorge22@gmail.com)
-- 💼 LinkedIn: 
-- 🐱 GitHub: [https://github.com/yourusername](https://github.com/jijohh) <!-- Replace with your GitHub profile -->
+- 💼 LinkedIn: www.linkedin.com/in/george-wanjiku-6b524b234
+- 🐱 GitHub: (https://github.com/jijohh) 
 
 ## 🚀 Deployment
 
