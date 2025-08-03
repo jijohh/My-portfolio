@@ -57,7 +57,7 @@ You can download my resume [here](./ResumeGW.pdf).
 ## 🚀 Deployment
 
 This project is deployed using GitHub Pages:  
-🔗 [https://yourusername.github.io/portfolio](https://jijohh.github.io/portfolio)
+🔗 (https://jijohh.github.io/portfolio)
 
 ## 📁 Tech Stack
 
